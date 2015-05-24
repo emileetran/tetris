@@ -10,3 +10,5 @@ insecure
 less
 skeleton:skeleton
 tetris:core
+mousetrap:mousetrap
+reactive-var
